@@ -1,0 +1,21 @@
+.active-filter {
+   background-color: #C7221A !important;
+   color: #FCFDFF;
+}
+
+.active-switch {
+   background-color: #C7221A !important;
+}
+
+.extension-container > div {
+   box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.1);
+}
+
+.circle {
+   transition: left 0.3s ease-in;
+}
+
+.go-right {
+   left: 23px !important;
+}
+
